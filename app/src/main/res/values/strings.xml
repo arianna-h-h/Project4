@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">Haradon Nav Drawer</string>
+    <string-array name="dogs_array">
+        <item>BerneseMountainDog</item>
+        <item>JackRussell</item>
+        <item>Pointer</item>
+        <item>Greyhound</item>
+        <item>Lab</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+</resources>
